@@ -79,8 +79,7 @@ Instead, the dataset can be downloaded directly from Kaggle using the link above
 To replicate this analysis:
 1. Download the dataset from [Kaggle](https://www.kaggle.com/datasets/tsiaras/uk-road-safety-accidents-and-vehicles).  
 2. Place the file `Accident_Information.csv` in the `data/` directory.  
-3. Run this notebook from start to finish using Python ≥3.10 and the following libraries:
-   - pandas, numpy, matplotlib, seaborn, scikit-learn  
+3. Run this notebook from start to finish using Python ≥3.10 and a standard data science stack for data preprocessing, visualization, and machine learning(some libraries may need to be installed beforehand)
 4. All random seeds are fixed for reproducibility.
 
 ---
